@@ -8,7 +8,7 @@ export const siteConfig = {
     linkedin: "https://linkedin.com/in/carlosberaun",
   },
   aboutMe:
-    "Customer-focused legal professional with over 13 years of experience in consumer protection, commercial litigation, and dispute resolution. Licensed lawyer with deep expertise in regulatory compliance and client relationship management. Currently expanding into international business after completing graduate studies at Lambton College in Canada. Multilingual professional (Spanish, English, Italian) with a proven track record recognized in the Legal 500 ranking.",
+    "Customer-focused legal professional with over <strong>13 years of experience</strong> in <strong>consumer protection</strong>, commercial litigation, and dispute resolution. Licensed lawyer with deep expertise in <strong>regulatory compliance</strong> and client relationship management. Currently expanding into international business after completing graduate studies at <strong>Lambton College</strong> in Canada. Multilingual professional (Spanish, English, Italian) with a proven track record recognized in the <strong>Legal 500</strong> ranking.",
   skills: [
     "Consumer Protection",
     "Commercial Litigation",
@@ -27,14 +27,14 @@ export const siteConfig = {
     {
       name: "Consumer Protection - INDECOPI",
       description:
-        "Drafted and analyzed 500+ cases to resolve consumer complaints. Recognized for outstanding performance by the Specialized Chamber for Consumer Protection.",
+        "Drafted and analyzed <strong>500+ cases</strong> to resolve consumer complaints. Recognized for outstanding performance by the <strong>Specialized Chamber for Consumer Protection</strong>.",
       link: "",
       skills: ["Legal Analysis", "Consumer Law", "Compliance"],
     },
     {
       name: "Corporate Defense - Diez Canseco Abogados",
       description:
-        "Represented firms before consumer agency achieving 90%+ successful negotiations. Featured client testimonial in Legal 500 ranking (2023).",
+        "Represented firms before consumer agency achieving <strong>90%+ successful negotiations</strong>. Featured client testimonial in <strong>Legal 500</strong> ranking (2023).",
       link: "",
       skills: ["Negotiation", "Commercial Litigation", "Client Relations"],
     },
@@ -45,9 +45,9 @@ export const siteConfig = {
       title: "Senior Associate",
       dateRange: "2017 - 2024",
       bullets: [
-        "Represented firms before INDECOPI achieving 90%+ successful negotiations in consumer complaints",
+        "Represented firms before <strong>INDECOPI</strong> achieving <strong>90%+ successful negotiations</strong> in consumer complaints",
         "Managed a team of two associates and two interns, coordinating activities and procedures",
-        "Featured in Legal 500 ranking (2023) for quick response capacity and business understanding",
+        "Featured in <strong>Legal 500</strong> ranking (2023) for quick response capacity and business understanding",
       ],
     },
     {
@@ -55,8 +55,8 @@ export const siteConfig = {
       title: "Legal Counsel",
       dateRange: "2014 - 2017",
       bullets: [
-        "Drafted and analyzed 500+ cases resolving consumer complaints with critical thinking approach",
-        "Recognized for outstanding performance in consumer protection",
+        "Drafted and analyzed <strong>500+ cases</strong> resolving consumer complaints with critical thinking approach",
+        "Recognized for <strong>outstanding performance</strong> in consumer protection",
       ],
     },
     {
@@ -64,19 +64,19 @@ export const siteConfig = {
       title: "Senior Associate - Customer Service",
       dateRange: "2013",
       bullets: [
-        "Supervised 50+ monthly responses to claims for retail and financial products",
-        "Managed daily interactions with 50+ customers ensuring regulatory compliance and satisfaction",
+        "Supervised <strong>50+ monthly responses</strong> to claims for retail and financial products",
+        "Managed daily interactions with <strong>50+ customers</strong> ensuring <strong>regulatory compliance</strong> and satisfaction",
       ],
     },
   ],
   education: [
     {
       school: "Lambton College, Ontario, Canada",
-      degree: "International Business - Graduate Certificate",
+      degree: "<strong>International Business</strong> - Graduate Certificate",
       dateRange: "2023 - 2025",
       achievements: [
-        "Dean's List: Second and Third Term 2024",
-        "Student of the Term - December 2024",
+        "<strong>Dean's List</strong>: Second and Third Term 2024",
+        "<strong>Student of the Term</strong> - December 2024",
       ],
     },
     {
